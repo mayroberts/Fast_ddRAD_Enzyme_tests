@@ -61,7 +61,7 @@ pop files:
     Lomatium_insulare_9918_SNI3
     Lomatium_insulare_9919_SNI3
 
-plot in R:
+plot in R:  
 <img width="638" height="399" alt="image" src="https://github.com/user-attachments/assets/487af5d4-13bd-4ab3-80ba-55bcf7defde8" />
 <img width="634" height="397" alt="image" src="https://github.com/user-attachments/assets/095f5074-189f-4e81-a563-ce5fb34aa879" />
 <img width="630" height="395" alt="image" src="https://github.com/user-attachments/assets/e0c66e17-dbf5-4c93-8c94-840988fee638" />
