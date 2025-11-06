@@ -4,6 +4,9 @@
 - [IQtree](#iqtree)
 - [NJtree](#njtree)
 
+# ipyrad stats
+
+
 # SNP map 
 Plotted genlight in R  
 Unordered
