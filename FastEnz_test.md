@@ -5,8 +5,10 @@
 - [NJtree](#njtree)
 
 # SNP map 
-Plotted genlight in R 
+Plotted genlight in R  
+Unordered
 <img width="1232" height="466" alt="image" src="https://github.com/user-attachments/assets/0d203942-34b2-4d9f-8020-babaf8fda4bf" />
+Pairs of samples next to each other
 <img width="1268" height="460" alt="image" src="https://github.com/user-attachments/assets/6b993a81-eee6-429a-95fa-dc900b62833e" />
 
 # PCA with plink
