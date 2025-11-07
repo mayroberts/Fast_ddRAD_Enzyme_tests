@@ -1,9 +1,12 @@
 # Fast_ddRAD_Enzyme_tests
+- [ipyrad stats](#ipyrad-stats)
 - [SNP map](#snp-map)
-- [PCA](#pca-with-plink)  
-- [IQtree](#iqtree)
-- [NJtree](#njtree)
+- [PCA](#pca-with-plink)
 - [R pop stats](#r-pop-stats)
+- [NJtree](#njtree)
+- [IQtree](#iqtree)
+
+
 
 
 # ipyrad stats
