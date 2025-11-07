@@ -3,6 +3,8 @@
 - [PCA](#pca-with-plink)  
 - [IQtree](#iqtree)
 - [NJtree](#njtree)
+- [R pop stats](#r-pop-stats)
+
 
 # ipyrad stats
 
@@ -70,7 +72,13 @@ plot in R:
 
 <img width="1007" height="586" alt="image" src="https://github.com/user-attachments/assets/4ec3e6ab-28e4-4e5f-9209-aabdfd423bbc" />
 
+# R population stats
+
+<img width="297" height="187" alt="image" src="https://github.com/user-attachments/assets/7d8927fd-21c7-4ffb-bebf-9aeba64204dd" />  
+<img width="243" height="191" alt="image" src="https://github.com/user-attachments/assets/966c01cb-ebf0-4fe8-90b1-a008864a8e85" />
+
 
 # IQtree
 
     -bnni -s infile.txt -st DNA -m MFP -o Lomatium_insulare_9900_SNI1 --sprrad 6 -B 1000 -safe --prefix output FastEnzTest
+    
