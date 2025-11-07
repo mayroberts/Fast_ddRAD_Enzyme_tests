@@ -8,6 +8,31 @@
 
 # ipyrad stats
 
+    ## Final Sample stats summary
+                                          state  reads_raw  reads_passed_filter  clusters_total  clusters_hidepth  hetero_est  error_est  reads_consens  loci_in_assembly
+    Lomatium_insulare_10727_GUZA              7    4208445              4206498          196860             43171    0.061550   0.017983          19580              2964
+    Lomatium_insulare_10728_GUZA              7    6352964              6347280          236805             58467    0.059960   0.015841          31704              3225
+    Lomatium_insulare_10729_GUZA              7    3623416              3616320          298417             48724    0.059443   0.014815          23871              2013
+    Lomatium_insulare_10730_GUPS              7    4617702              4612770          227296             47686    0.058779   0.018170          21530              2914
+    Lomatium_insulare_10731_GUPS              7    5252618              5249294          226483             48065    0.061550   0.017983          21490              2965
+    Lomatium_insulare_10737_GUPS              7    6050152              6043594          248618             54212    0.058440   0.017363          25147              3174
+    Lomatium_insulare_9900_SNI1               7    6176005              6167159          263484             68427    0.047059   0.017211          35316              3137
+    Lomatium_insulare_9901_SNI1               7    4645865              4638825          223139             58171    0.045010   0.017546          30199              3377
+    Lomatium_insulare_9902_SNI1               7    5882504              5875831          218533             65475    0.043972   0.016555          35768              3365
+    Lomatium_insulare_9917_SNI3               7    3327028              3323334          167625             41310    0.044314   0.016660          20897              2474
+    Lomatium_insulare_9918_SNI3               7    2876945              2874306          121718             47345    0.034026   0.013167          29533              1654
+    Lomatium_insulare_9919_SNI3               7    1355961              1354054          118788             19368    0.052972   0.019599           7322              1073
+    Lomatium_insulare_fastEnz_10727_GUZA      7    8500023              8496491          180594             60328    0.062234   0.013570          33910              3362
+    Lomatium_insulare_fastEnz_10728_GUZA      7    7532406              7528962          212770             73719    0.055799   0.014304          45022              3352
+    Lomatium_insulare_fastEnz_10729_GUZA      7    8475160              8468666          311877             79660    0.056141   0.009562          46610              3371
+    Lomatium_insulare_fastEnz_10730_GUPS      7    1730551              1729541           98645             23396    0.061810   0.016892          10919              1786
+    Lomatium_insulare_fastEnz_10731_GUPS      7    8037076              8034200          189583             56212    0.053807   0.014241          31355              3388
+    Lomatium_insulare_fastEnz_10737_GUPS      7    5061107              5059348          146977             50222    0.059960   0.015841          27366              3005
+
+
+## Alignment matrix statistics:
+snps matrix size: (18, 5578), 32.23% missing sites.
+sequence matrix size: (18, 234445), 24.62% missing sites.
 
 # SNP map 
 Plotted genlight in R  
