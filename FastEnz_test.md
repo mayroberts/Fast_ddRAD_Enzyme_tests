@@ -110,5 +110,6 @@ plot in R:
 
 # IQtree
 
-    -bnni -s infile.txt -st DNA -m MFP -o Lomatium_insulare_9900_SNI1 --sprrad 6 -B 1000 -safe --prefix output FastEnzTest
+    -bnni -s infile.txt -st DNA -m MFP -o Lomatium_insulare_9900_SNI1 --sprrad 6 -B 1000 -safe --prefix FastEnzTest
     
+<img width="810" height="804" alt="image" src="https://github.com/user-attachments/assets/54fa515c-a615-4206-9d68-f8031e67955d" />
