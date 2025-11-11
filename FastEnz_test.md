@@ -99,6 +99,8 @@ plot in R:
 # NJtree
 
 <img width="1007" height="586" alt="image" src="https://github.com/user-attachments/assets/4ec3e6ab-28e4-4e5f-9209-aabdfd423bbc" />
+<img width="1418" height="678" alt="image" src="https://github.com/user-attachments/assets/3b5f3ab2-b831-4ea6-8245-ea46e6cbf541" />
+
 
 # R population stats
 
