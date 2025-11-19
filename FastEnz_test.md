@@ -95,6 +95,9 @@ plot in R:
 <img width="638" height="399" alt="image" src="https://github.com/user-attachments/assets/487af5d4-13bd-4ab3-80ba-55bcf7defde8" />
 <img width="634" height="397" alt="image" src="https://github.com/user-attachments/assets/095f5074-189f-4e81-a563-ce5fb34aa879" />
 <img width="630" height="395" alt="image" src="https://github.com/user-attachments/assets/e0c66e17-dbf5-4c93-8c94-840988fee638" />
+<img width="675" height="491" alt="image" src="https://github.com/user-attachments/assets/6d143696-cab4-4574-86ab-04f5ea868bbd" />
+<img width="674" height="489" alt="image" src="https://github.com/user-attachments/assets/3df31026-f98f-4286-b840-48d7e9ac2568" />
+<img width="686" height="485" alt="image" src="https://github.com/user-attachments/assets/9ba400e7-9ee5-4ee1-9c4f-bce4507bd107" />
 
 # NJtree
 
